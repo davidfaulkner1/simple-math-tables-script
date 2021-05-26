@@ -1,4 +1,4 @@
-# Simple Maths Table Script
+# Simple Math Tables
 
 This shell script program generates math tables. This was created as part of my college project for Computer Architecture and Technology Convergence.
 
