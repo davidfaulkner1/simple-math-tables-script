@@ -12,3 +12,9 @@ This shell script program generates math tables. This was created as part of my 
 
 
 2. The user then inputs a number which will iterate against the chosen operator from 1 to 15.
+
+----
+
+See image below for sample output of math tables in bash terminal.
+
+![Sample app output](img/example1.png)
